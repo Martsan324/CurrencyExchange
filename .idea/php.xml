@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/composer" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/symfony_back/vendor/symfony/polyfill-mbstring" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>

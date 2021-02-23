@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+header {
+  background: #5caceb;
+  color: #fff;
+  height: 50px;
+}
+.headerText {
+  font-size: 24px;
+  padding-top: 4px;
+}
+.app {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+}
+.returnValue {
+  display: inline-flex;
+  align-items: center;
+}
+.field {
+  width: 100%;
+}
+.field__Input,
+.dropdown {
+  border: 1px solid #a8a8a8;
+  border-radius: 4px;
+  color: #333;
+  width: 100%;
+  -webkit-transition: 0.5s border;
+  -o-transition: 0.5s border;
+  transition: 0.5s border;
+  height: 50px;
+}
+.field__Input:hover,
+.field__Input:focus,
+.field__Input:active,
+.dropdown:hover,
+.dropdown:focus,
+.dropdown:active {
+  border-color: #4f9dd8;
+  outline: none;
+}
